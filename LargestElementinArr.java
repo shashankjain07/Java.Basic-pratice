@@ -1,4 +1,4 @@
-//1 : Declare an array with 10 elements. Get a subarray from an array between index 2 to 6 and find out the 2nd highest number from the sub array.
+//1 : Declare an array with 10 elements. Get a subarray from an array between index 2 to 6 and find out the highest number from the sub array.
 
 import java.util.Arrays;
 public class LargestElementinArr {
